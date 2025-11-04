@@ -4,12 +4,12 @@ The ExtremeXP project aims to support the development and operation of complex a
 
 ## Key Concepts in ExtremeXP framework
 
-1. **Complex Analytics Workwflow (CAw)**: is an abstraction over different types of data-driven analytics workflows that includes (possibly combinations of):
+1. **Complex Analytics Workwflow (CAW)**: is an abstraction over different types of data-driven analytics workflows that includes (possibly combinations of):
  - machine learning (ML) lifecycle workflows,
  - job scheduling and task automation workflows,
-  - data-analysis scripts
-  - ETL pipelines
-  - etc.   
+  data-analysis scripts
+  ETL pipelines
+  etc.   
 2.  **Intent**: is a specification of the result (functional requirement) of the CAW, in the form of a natural language prompt, e.g., “find a classifier with at least 90% accuracy on this test dataset”. It may further contain non-functional requirements, e.g., “the computation should not take too much CPU/GPU resources”.
 4.  **Experiment**: Experiments are used within ExtremeXP to systematically develop, automate, reuse, setup, execute, track, explain, compare, and optimize CAWs. For simplicity, we refer to this henceforth as just “experiment”.
 5.  **Experiment Specification**. This includes
