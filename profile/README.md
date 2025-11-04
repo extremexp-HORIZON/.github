@@ -13,10 +13,10 @@ The ExtremeXP project aims to support the development and operation of complex a
 2.  **Intent**: is a specification of the result (functional requirement) of the CAW, in the form of a natural language prompt, e.g., “find a classifier with at least 90% accuracy on this test dataset”. It may further contain non-functional requirements, e.g., “the computation should not take too much CPU/GPU resources”.
 4.  **Experiment**: Experiments are used within ExtremeXP to systematically develop, automate, reuse, setup, execute, track, explain, compare, and optimize CAWs. For simplicity, we refer to this henceforth as just “experiment”.
 5.  **Experiment Specification** includes: 
- **description of the CAW itself**, i.e. tasks to be performed and their data and control dependencies.
- Any **variability points**. A variability point is an aspect of the CAW that can be changed and can refer to (i) different task implementations (e.g., different ML algorithms), (ii) different task inputs (e.g., different datasets), (iii) different hyperparameters, (iv) different task/workflow deployments (e.g., on CPUs/GPUs). 
- **Metrics** to be computed. A metric refers to a measurable property (i) of the whole CAW (e.g., end-to-end execution time), (ii) of a particular task (e.g., memory consumption of ML training), or (iii) of an output of a task (e.g., accuracy of produced ML model, user satisfaction level given a task’s outcome).
- Any **soft and hard constraints** related to the execution of the CAW. A hard constraint should never be violated (e.g., memory consumed below a certain limit), while a soft constraint is essentially an optimization objective (e.g., minimize memory consumption). A constraint can be defined with reference to e.g., a metric and/or deployment option.
+      - **description of the CAW itself**, i.e. tasks to be performed and their data and control dependencies.
+      - Any **variability points**. A variability point is an aspect of the CAW that can be changed and can refer to (i) different task implementations (e.g., different ML algorithms), (ii) different task inputs (e.g., different datasets), (iii) different hyperparameters, (iv) different task/workflow deployments (e.g., on CPUs/GPUs). 
+      - **Metrics** to be computed. A metric refers to a measurable property (i) of the whole CAW (e.g., end-to-end execution time), (ii) of a particular task (e.g., memory consumption of ML training), or (iii) of an output of a task (e.g., accuracy of produced ML model, user satisfaction level given a task’s outcome).
+      - Any **soft and hard constraints** related to the execution of the CAW. A hard constraint should never be violated (e.g., memory consumed below a certain limit), while a soft constraint is essentially an optimization objective (e.g., minimize memory consumption). A constraint can be defined with reference to e.g., a metric and/or deployment option.
 
 
 
