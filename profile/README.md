@@ -5,7 +5,7 @@ The ExtremeXP project aims to support the development and operation of complex a
 ## Key Concepts in ExtremeXP framework
 
 1. **Complex Analytics Workwflow (CAW)**: is an abstraction over different types of data-driven analytics workflows that includes (possibly combinations of):
-....* machine learning (ML) lifecycle workflows,
+  - machine learning (ML) lifecycle workflows,
   - job scheduling and task automation workflows,
   - data-analysis scripts,
   - ETL pipelines
