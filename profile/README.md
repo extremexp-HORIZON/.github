@@ -25,7 +25,7 @@ The ExtremeXP project aims to support the development and operation of complex a
 
 ## ExtremeXP Framework Architecture
 
-
+<img width="1367" height="865" alt="Image" src="https://github.com/user-attachments/assets/2e0a0197-f6f0-4a01-8d6d-8eaa60fc3401" />
 
 ## Main Repositories
 
