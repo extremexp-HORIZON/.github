@@ -19,9 +19,9 @@ The ExtremeXP project aims to support the development and operation of complex a
 -  Any **soft and hard constraints** related to the execution of the CAW. A hard constraint should never be violated (e.g., memory consumed below a certain limit), while a soft constraint is essentially an optimization objective (e.g., minimize memory consumption). A constraint can be defined with reference to e.g., a metric and/or deployment option.
        
 ## User Roles in ExtremeXP
-•	**Data engineer**. Needs to run one or more experiments to develop optimized and trustworthy CAWs. Data engineers realize the requirements of domain experts by specifying experiments, specifying access control processes, and controlling the execution of experiments.
-•	**Domain expert**: Provides the requirements for the experiments to be specified and run (e.g. which CAW workflow to be optimized, which metrics to use in doing so), consumes the results of the CAW (including the visualization and explainability ones), needs to trust the experimentation process followed by the framework. 
-•	**Data creator**: Provides the datasets acting as inputs to the CAWs involved in the experiments; has certain privacy and confidentiality requirements that need to be preserved during the experimentation process. 
+- **Data engineer**: runs one or more experiments to develop optimized and trustworthy CAWs. Data engineers realize the requirements of domain experts by specifying experiments, specifying access control processes, and controlling the execution of experiments.
+- **Domain expert**: Provides the requirements for the experiments to be specified and run (e.g. which CAW workflow to be optimized, which metrics to use in doing so), consumes the results of the CAW (including the visualization and explainability ones), needs to trust the experimentation process followed by the framework.
+- **Data creator**: Provides the datasets acting as inputs to the CAWs involved in the experiments; has certain privacy and confidentiality requirements that need to be preserved during the experimentation process. 
 
 ## ExtremeXP Framework Architecture
 
