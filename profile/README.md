@@ -18,7 +18,10 @@ The ExtremeXP project aims to support the development and operation of complex a
 -   **Metrics** to be computed. A metric refers to a measurable property (i) of the whole CAW (e.g., end-to-end execution time), (ii) of a particular task (e.g., memory consumption of ML training), or (iii) of an output of a task (e.g., accuracy of produced ML model, user satisfaction level given a task’s outcome).
 -  Any **soft and hard constraints** related to the execution of the CAW. A hard constraint should never be violated (e.g., memory consumed below a certain limit), while a soft constraint is essentially an optimization objective (e.g., minimize memory consumption). A constraint can be defined with reference to e.g., a metric and/or deployment option.
        
+## Main Repositories
 
+
+## Get Started
 
 
 
