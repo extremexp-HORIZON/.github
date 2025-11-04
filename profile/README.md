@@ -5,8 +5,8 @@
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
-
-The ExtremeXP approach aims at supporting the development and operation of complex (in terms of the nature of the operation and their scope) analytics workflows that are used for taking data-driven decisions in different application domains
+#ExtremeXP Project
+The ExtremeXP project aims to support the development and operation of complex analytics workflows that are used for taking data-driven decisions in different application domains.
 
 
 
