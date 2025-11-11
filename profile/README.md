@@ -35,15 +35,15 @@ The ExtremeXP project aims to support the development and operation of complex a
 
 - **Experimentation Engine**: https://github.com/extremexp-HORIZON/extremexp-experimentation-engine
 
-- **Decentralized Data Management**: 
+- **Decentralized Data Management**: https://github.com/extremexp-HORIZON/DDM
   
-- **ProActive Executionware**
+- **ProActive Executionware**:
   
 - **Visualization Dashboard**: https://github.com/extremexp-HORIZON/vis-frontend
 
-- **Access Control**: 
+- **Access Control**:
 
-
+- **Analytics Catalogue**
 
 
 
@@ -72,6 +72,7 @@ The user can access the Decentralized Data Management (DDM) system via https://d
 DDM provides a robust framework for handling heterogeneous data and metadata assets across the project’s distributed modules. Designed to support varying storage and access requirements among machines operating in diverse geographic and operational environments, the system ensures scalable, low-latency data handling through a decentralized architecture built on Zenoh.
 
 
+5. **Experimentation Engine** : 
    
 6. **Experiment Execution via Proactive**: https://proactive.extremexp-icom.intracom-telecom.com 
   
