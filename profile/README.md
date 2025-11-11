@@ -29,6 +29,20 @@ The ExtremeXP project aims to support the development and operation of complex a
 
 ## Main Repositories
 
+- **ExtremeXP Portal**: https://github.com/extremexp-HORIZON/extremexp-portal
+  
+- **DSL Editor**:  https://github.com/extremexp-HORIZON/extremexp-ide
+
+- **Experimentation Engine**: https://github.com/extremexp-HORIZON/extremexp-experimentation-engine
+
+- **Decentralized Data Management**: 
+  
+- **ProActive Executionware**
+  
+- **Visualization Dashboard**: https://github.com/extremexp-HORIZON/vis-frontend
+
+- **Access Control**: 
+
 
 
 
@@ -42,10 +56,26 @@ The ExtremeXP project aims to support the development and operation of complex a
 The ExtremeXP portal acts as the main entry point for all ExtremeXP users. A registered user of the Portal can access both a Graphical (Experiments tab) and the Textual Editors (Tasks tab - aka DSL Editor) to design and specify workflows and experiments.
 
 2. **Specify Workflows and Experiments**
+There are two ways to specify a workflow; either via the Graphical Editor or the DSL Editor
+
+    2.1 **Graphical Editor**: 
+
+
+   2.2 **DSL Editor**: Go to https://ide.extremexp-icom.intracom-telecom.com/  
+
+ 
    
-3. **Experiment Execution**
+   
+
+4. **Data Upload and Exploration via the Decentralized Data Management**
+The user can access the Decentralized Data Management (DDM) system via https://ddm.extremexp-icom.intracom-telecom.com/.
+DDM provides a robust framework for handling heterogeneous data and metadata assets across the project’s distributed modules. Designed to support varying storage and access requirements among machines operating in diverse geographic and operational environments, the system ensures scalable, low-latency data handling through a decentralized architecture built on Zenoh.
+
+
+   
+6. **Experiment Execution via Proactive**: https://proactive.extremexp-icom.intracom-telecom.com 
   
-4. **Experiment and Workflow Visualization**
+7. **Experiment and Workflow Visualization**
 Via the Visualization Dashboard, ExtremeXP users can monitor experiment progress, analyze workflow metrics and results, and compare workflows. ​The Vizualization Dashboard also facilitates human-in-the-loop interaction by enabling experiment lifecycle control, user rating of workflows, and experiment execution adjustments.
 
 
