@@ -43,9 +43,11 @@ The ExtremeXP project aims to support the development and operation of complex a
   
 - **Visualization Dashboard**: https://github.com/extremexp-HORIZON/vis-frontend
 
-- **Access Control**:
+- **Access Control**: 
 
 - **Analytics Catalogue**
+
+- **Intent Capture and Anticipation Module**: https://github.com/extremexp-HORIZON/extremexp-intents2workflows 
 
 
 
