@@ -33,10 +33,22 @@ The ExtremeXP project aims to support the development and operation of complex a
 
 
 
+
 ## Getting Started Started
-1. **Register and Login in the ExtremeXP Portal**: Go to [ExtremeXP Portal](https://portal.extremexp-icom.intracom-telecom.com	), and\
-     - Register a new user\
+1. **Register and Login in the ExtremeXP Portal**: Go to [ExtremeXP Portal](https://portal.extremexp-icom.intracom-telecom.com	), and
+     - Register a new user
      - Log in with your credentials
+
+The ExtremeXP portal acts as the main entry point for all ExtremeXP users. A registered user of the Portal can access both a Graphical (Experiments tab) and the Textual Editors (Tasks tab - aka DSL Editor) to design and specify workflows and experiments.
+
+2. **Specify Workflows and Experiments**
+   
+3. **Experiment Execution**
+  
+4. **Experiment and Workflow Visualization**
+Via the Visualization Dashboard, ExtremeXP users can monitor experiment progress, analyze workflow metrics and results, and compare workflows. ​The Vizualization Dashboard also facilitates human-in-the-loop interaction by enabling experiment lifecycle control, user rating of workflows, and experiment execution adjustments.
+
+
 
 
 
