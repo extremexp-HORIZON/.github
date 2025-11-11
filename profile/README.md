@@ -52,7 +52,7 @@ The ExtremeXP project aims to support the development and operation of complex a
 
 
 
-## Getting Started Started
+## Getting Started 
 1. **Register and Login in the ExtremeXP Portal**: Go to [ExtremeXP Portal](https://portal.extremexp-icom.intracom-telecom.com	), and
      - Register a new user
      - Log in with your credentials
