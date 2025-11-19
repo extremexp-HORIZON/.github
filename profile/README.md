@@ -39,8 +39,8 @@ The ExtremeXP project aims to support the development and operation of complex a
 
 - **Decentralized Data Management**: https://github.com/extremexp-HORIZON/DDM
   
-- **ProActive Executionware**:
-  
+- **ProActive Executionware/Scheduler**: https://github.com/eu-nebulous/nebulous/wiki/1.1-Installation-Walk%E2%80%90trough-for-Development-&-Evaluation#proactive-scheduler 
+   
 - **Visualization Dashboard**: https://github.com/extremexp-HORIZON/vis-frontend
 
 - **Access Control**: 
