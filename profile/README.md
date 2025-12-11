@@ -1,6 +1,6 @@
 
 # ExtremeXP Project
-The ExtremeXP project aims to support the development and operation of complex analytics workflows that are used for taking data-driven decisions in different application domains. By addressing the need for accurate, precise, fit-for-purpose, and trustworthy data-driven insights, ExtremeXP proposes a experimentation-driven analytics paradigm, which puts the end user at the centre of complex analytics processes. In this context the user can set their requirements, preferences, and constraints early in the experimentation process and/or ask for explanations and feedback, accounting for novel interactions with the system.
+The ExtremeXP project aims to support the development and operation of **complex analytics workflows** that are used for taking data-driven decisions in different application domains. By addressing the need for **accurate**, **precise**, **fit-for-purpose**, and **trustworthy data-driven insights**, ExtremeXP proposes a **experimentation-driven analytics paradigm**, which puts the end user at the centre of complex analytics processes. In this context the user can set their requirements, preferences, and constraints early in the experimentation process and/or ask for explanations and feedback, accounting for novel interactions with the system.
 
 ## Key Concepts in ExtremeXP framework
 
