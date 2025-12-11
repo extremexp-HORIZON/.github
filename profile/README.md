@@ -39,7 +39,7 @@ The ExtremeXP project aims to support the development and operation of **complex
 
 **_TO BE UPDATED AFTER FINAL ARCHITECTURE IS RELEASED_**
 
-<img width="1367" height="865" alt="Image" src="https://github.com/user-attachments/assets/2e0a0197-f6f0-4a01-8d6d-8eaa60fc3401" />
+<img width="1367" height="865" alt="Image" src="https://github.com/extremexp-HORIZON/.github/blob/a28e12fa1a9269e4c4d125141f92555d5e076cf5/profile/final_%20architecture_D2.2.jpg" />
 
 ## Main Repositories
 
