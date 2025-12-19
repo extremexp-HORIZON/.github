@@ -55,12 +55,11 @@ The ExtremeXP project aims to support the development and operation of **complex
    
 - **Visualization Dashboard**: https://github.com/extremexp-HORIZON/experiment-lens
 
-- **Access Control**: 
+- **Access Control**: https://github.com/extremexp-HORIZON/extremexp_accesscontrol
 
-- **Analytics Catalogue**
+- **Data Abstraction Layer**: https://github.com/extremexp-HORIZON/extremexp-dal
 
 - **Intent Capture and Anticipation Module**: https://github.com/extremexp-HORIZON/extremexp-intents2workflows 
-
 
 
 
