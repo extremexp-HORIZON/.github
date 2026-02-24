@@ -59,7 +59,10 @@ The ExtremeXP project aims to support the development and operation of **complex
 
 - **Data Abstraction Layer**: https://github.com/extremexp-HORIZON/extremexp-dal
 
-- **Intent Capture and Anticipation Module**: https://github.com/extremexp-HORIZON/extremexp-intents2workflows 
+- **Intent Capture and Anticipation Module**: https://github.com/extremexp-HORIZON/extremexp-intents2workflows
+  
+- **Options Explorer**: https://github.com/extremexp-HORIZON/options-explorer
+  
 
 
 
