@@ -37,9 +37,8 @@ The ExtremeXP project aims to support the development and operation of **complex
 
 ## ExtremeXP Framework Architecture
 
-**_TO BE UPDATED AFTER FINAL ARCHITECTURE IS RELEASED_**
 
-<img width="1367" height="865" alt="Image" src="profile/final_architecture_D2.2.jpg" />
+<img width="1051" height="898" alt="image" src="https://github.com/user-attachments/assets/50457680-0776-4085-8dc1-fe10938b5d32" />
 
 ## Main Repositories
 
