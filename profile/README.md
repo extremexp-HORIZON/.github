@@ -61,6 +61,8 @@ The ExtremeXP project aims to support the development and operation of **complex
 - **Intent Capture and Anticipation Module**: https://github.com/extremexp-HORIZON/extremexp-intents2workflows
   
 - **Options Explorer**: https://github.com/extremexp-HORIZON/options-explorer
+
+- **ExtremeXP-FS**: https://github.com/extremexp-HORIZON/extremexp-fs
   
 
 
