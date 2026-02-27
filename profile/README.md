@@ -63,7 +63,8 @@ The ExtremeXP project aims to support the development and operation of **complex
 - **Options Explorer**: https://github.com/extremexp-HORIZON/options-explorer
 
 - **ExtremeXP-FS**: https://github.com/extremexp-HORIZON/extremexp-fs
-  
+
+- **Experiment Cards**: https://github.com/extremexp-HORIZON/extremeXP_experimentCards
 
 
 
