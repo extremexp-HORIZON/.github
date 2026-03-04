@@ -66,6 +66,8 @@ The ExtremeXP project aims to support the development and operation of **complex
 
 - **Experiment Cards**: https://github.com/extremexp-HORIZON/extremeXP_experimentCards
 
+- **Analytics Catalogue**: https://github.com/extremexp-HORIZON/extremexp-AnalyticsCatalogue
+
 
 
 ## Getting Started 
